@@ -9,7 +9,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "“Tamara <tamara.lodico@students.fhnw.ch”>",
+  "author": "tlodico",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
